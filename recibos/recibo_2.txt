@@ -1,0 +1,10 @@
+========================================
+          RECIBO DE PAGO DIGITAL        
+========================================
+ID Transacción: 2
+Cliente:        Danna Paola
+Servicio:       Corte
+Total Pagado:   $20.00
+========================================
+      ¡Gracias por su preferencia!      
+========================================

@@ -1,0 +1,10 @@
+========================================
+          RECIBO DE PAGO DIGITAL        
+========================================
+ID Transacción: 1
+Cliente:        Angelica Paola
+Servicio:       Ropa
+Total Pagado:   $50.00
+========================================
+      ¡Gracias por su preferencia!      
+========================================
